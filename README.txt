@@ -344,6 +344,10 @@ Details surrounding other technical aspects of the tool and OS details related
 to the Windows loader/search order, UAC, WinSxS etc. can be found within the
 PDF for this project.
 
+# License
+
+Siofra is licensed under the GLP 3 license. See LICENSE.MD for details.
+
 # Contact
 
 Forrest Williams - forrest-RE@protonmail.com / forrest.williams@cybereason.com
