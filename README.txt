@@ -346,7 +346,7 @@ PDF for this project.
 
 # License
 
-Siofra is licensed under the GLP 3 license. See LICENSE.MD for details.
+Siofra is licensed under the GPL 3 license. See LICENSE.MD for details.
 
 # Contact
 
